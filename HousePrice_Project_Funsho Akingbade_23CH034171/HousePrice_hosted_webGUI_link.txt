@@ -1,7 +1,7 @@
 
-Name: Samuel Akingbade
-Matric Number: XXXX
+Name: Funsho Akingbade
+Matric Number: 23CH034171
 Machine Learning Algorithm Used: Random Forest Regressor
 Model Persistence Method: Pickle
 Live URL: To be added after deployment
-GitHub Repository Link: To be added
+GitHub Repository Link: https://github.com/Funsho-Akingbade/HousePrice_Project_Funsho-Akingbade_23CH034171.git
