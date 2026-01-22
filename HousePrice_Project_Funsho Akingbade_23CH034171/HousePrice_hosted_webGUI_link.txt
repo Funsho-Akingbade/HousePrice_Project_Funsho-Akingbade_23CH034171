@@ -1,0 +1,7 @@
+
+Name: Samuel Akingbade
+Matric Number: XXXX
+Machine Learning Algorithm Used: Random Forest Regressor
+Model Persistence Method: Pickle
+Live URL: To be added after deployment
+GitHub Repository Link: To be added
